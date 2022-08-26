@@ -5,6 +5,13 @@ Este repositorio contiene el primer ejercicio en Node Red, el cual consiste en e
 Para poder realizar necesario es necesario tener instalado:
 - [Node.js](https://github.com/nodesource/distributions/blob/master/README.md) Usar la versión LTS v16x e instalar los build tools.
 - [Node-Red](https://nodered.org/docs/getting-started/local)
+- [Ubuntu 20.04](https://ubuntu.com/download/desktop/thank-you?version=20.04.2.0&architecture=amd64)
+
+## Material de referencia
+Para hacer las instalaciones requeridas para este ejercicio se siguieron los pasos de los cursos siguientes:
+- [Instalación de Ubuntu 20.04 en VirtualBox Windows](https://edu.codigoiot.com/course/view.php?id=812)
+- [Instalación de NodeRed en Ubuntu 20.04](https://edu.codigoiot.com/course/view.php?id=817)
+- [Introducción a NodeRed](https://edu.codigoiot.com/course/view.php?id=278)
 
 ## Instrucciones
 1. Abrir la terminal y escribir el siguiente comando: **node-red**
@@ -16,3 +23,4 @@ Para poder realizar necesario es necesario tener instalado:
 
 ## Resultados
 Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se ve en Pantalla_en_nodered.png
+![Descripción de la imagen](Pantalla_en_nodered.png)
