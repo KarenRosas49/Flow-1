@@ -16,4 +16,4 @@ Para poder realizar necesario es necesario tener instalado:
 
 ## Resultados
 Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se ve en la siguiente imagen:
-![alt text](https://github.com/KarenRosas49/Flow-1/Pantalla_en_nodered.png?Pantalla_en_noderedrpngtrue)
+![alt text](https://github.com/KarenRosas49/Flow-1/Pantalla_en_nodered.png)
