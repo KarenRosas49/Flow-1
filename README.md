@@ -29,7 +29,7 @@ Una vez completados los pasos anteriores se deberá ver una ventana que cada seg
 ## Evidencias
 [EVidencia Flow 1](https://youtu.be/o83iMDl8i_E)
 
-##Créditos
+## Créditos
 Este ejercicio fue basado en los ejercicios que se encuentran en el repositorio [flow1-NodeRed](https://github.com/hugoescalpelo/flow1-NodeRed)
 
 Documentación realizada por [Karen Rosas](https://github.com/KarenRosas49)
