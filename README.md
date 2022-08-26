@@ -27,7 +27,7 @@ Una vez completados los pasos anteriores se deberá ver una ventana que cada seg
 ![Captura de pantalla](Pantalla_en_nodered.png)
 
 ## Evidencias
-[EVidencia Flow 1](https://youtu.be/o83iMDl8i_E)
+[Evidencia Flow 1](https://youtu.be/o83iMDl8i_E)
 
 ## Créditos
 Este ejercicio fue basado en los ejercicios que se encuentran en el repositorio [flow1-NodeRed](https://github.com/hugoescalpelo/flow1-NodeRed)
