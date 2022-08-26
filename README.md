@@ -22,5 +22,8 @@ Para hacer las instalaciones requeridas para este ejercicio se siguieron los pas
 5. Finalmente, dar click en el botón **Deploy** para que se actualicen los cambios. 
 
 ## Resultados
-Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se ve en Pantalla_en_nodered.png
+Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se muestra a continuación:
+
 ![Descripción de la imagen](Pantalla_en_nodered.png)
+
+## Evidencias
